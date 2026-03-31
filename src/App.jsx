@@ -101,7 +101,7 @@ export default function App() {
                           className="h-20 w-auto"
                       />
                       <div>
-                          <div className="text-3xl text-[#C8A24F] md:text-4xl">EverTrust 89</div>
+                          <div className="text-3xl text-[#C8A24F] md:text-4xl">EverTrust</div>
                           <div className="font-sans text-xs uppercase tracking-[0.35em] text-[#C8A24F]">
                               Homecare Services
                           </div>
